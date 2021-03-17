@@ -26,5 +26,5 @@ stages:
      #   TargetFolder: $(Build.ArtifactStagingDirectory)
 
      #- upload: $(Build.ArtifactStagingDirectory)
-      - upload: $(System.DefaultWorkingDirectory)
+     - upload: $(System.DefaultWorkingDirectory)
        artifact: application
