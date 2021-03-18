@@ -29,4 +29,3 @@ stages:
        artifact: calculator
      #- upload: $(System.DefaultWorkingDirectory)
       # artifact: application
-      
